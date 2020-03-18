@@ -1,4 +1,4 @@
-# [peixin.io](https://cin.ufpe.br/~hrc/)
+# [peixin.io](https://heitorcoimbra.github.io/peixin.io/public_html/index.html)
 ## An aquatic ecosystem simulation game
 ### Abstract
 This project is an attempt to emulate a self-regulated aquatic ecosystem with multiple artificial populations of fish and cyanobacteria. 
@@ -11,7 +11,7 @@ Besides these mechanisms, there is no interspecies competition, only intraspecif
 
 The code is in Javascript and uses the p5.js library which was fundamental to the making of the animations and graphic interface.
 
-The build is interactive and you can try it out [here!](https://cin.ufpe.br/~hrc/)
+The build is interactive and you can try it out [here!](https://heitorcoimbra.github.io/peixin.io/public_html/index.html)
 ### What it does
 Through keyboard inputs the user can spawn schools of fish or populations of bacteria at will, creating endless possibilities of environment creation for the beings to inhabit.
 
