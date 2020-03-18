@@ -11,7 +11,7 @@ Besides these mechanisms, there is no interspecific competition, only intraspeci
 
 The code is in Javascript and uses the p5.js library which was fundamental to the making of the animations and graphic interface.
 
-The build is interactive and you can try it out [here!](https://heitorcoimbra.github.io/Aquatic-Ecosystem-Simulation/public_html)
+The build is interactive and you can try it out [here!](https://cin.ufpe.br/~hrc/)
 ### What it does
 Through keyboard inputs the user can spawn schools of fish or populations of bacteria at will, creating endless possibilities of environment creation for the beings to inhabit.
 
