@@ -1,13 +1,13 @@
-# peixin.io
+# [peixin.io](https://cin.ufpe.br/~hrc/)
 ## An aquatic ecosystem simulation game
 ### Abstract
 This project is an attempt to emulate a self-regulated aquatic ecosystem with multiple artificial populations of fish and cyanobacteria. 
 
-The movement was based on Craig Reynolds [boids algorithm](https://www.red3d.com/cwr/papers/1999/gdc99steer.pdf) and is influenced by factors such as intraspecific cohesion, population direction alignment, hunger, curiosity, interspecific divergence, etc.
+The movement was based on Craig Reynolds [boids algorithm](https://www.red3d.com/cwr/papers/1999/gdc99steer.pdf) and is influenced by factors such as intraspecific cohesion, population direction alignment, hunger, curiosity, interspecies divergence, etc.
 
 Reproduction, propagation, and death are all ruled by mimicking simple biological systems. That is, the death of cyanobacteria occurs in function of nutrient scarcity in the environment and by being predated by the fish, while fish death is caused only by starvation as there are no fish predators in the ecosystem up until the current state of the project.
 
-Besides these mechanisms, there is no interspecific competition, only intraspecific, that is, the fish do not compete for food with the bacteria, only with other schools/groups of fish.
+Besides these mechanisms, there is no interspecies competition, only intraspecific, that is, the fish do not compete for food with the bacteria, only with other schools/groups of fish.
 
 The code is in Javascript and uses the p5.js library which was fundamental to the making of the animations and graphic interface.
 
